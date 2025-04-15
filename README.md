@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0954-maximum-sum-circular-subarray](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 ## Hash Table
@@ -16,10 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0139-word-break) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0139-word-break) |
 ## Sorting
 |  |
 | ------- |
@@ -27,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0139-word-break](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0954-maximum-sum-circular-subarray](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
@@ -57,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## Backtracking
 |  |
@@ -66,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0078-subsets) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
