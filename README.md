@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0954-maximum-sum-circular-subarray](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
+| [1256-rank-transform-of-an-array](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3194-find-words-containing-character](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
 ## Hash Table
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0139-word-break) |
+| [1256-rank-transform-of-an-array](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 ## String
 |  |
 | ------- |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [1256-rank-transform-of-an-array](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Dynamic Programming
 |  |
