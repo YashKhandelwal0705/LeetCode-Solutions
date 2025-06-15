@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0520-detect-capital](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0520-detect-capital) |
+| [0742-to-lower-case](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0742-to-lower-case) |
 | [2235-capitalize-the-title](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/2235-capitalize-the-title) |
 | [3194-find-words-containing-character](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
 ## Sorting
