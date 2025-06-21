@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0139-word-break) |
 | [1256-rank-transform-of-an-array](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/3408-count-the-number-of-special-characters-i) |
 ## String
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0742-to-lower-case) |
 | [2235-capitalize-the-title](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/2235-capitalize-the-title) |
 | [3194-find-words-containing-character](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
+| [3408-count-the-number-of-special-characters-i](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/3408-count-the-number-of-special-characters-i) |
 ## Sorting
 |  |
 | ------- |
