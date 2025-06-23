@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0742-to-lower-case) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [2235-capitalize-the-title](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/2235-capitalize-the-title) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3194-find-words-containing-character](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/3408-count-the-number-of-special-characters-i) |
 ## Sorting
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+## Simulation
+|  |
+| ------- |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 <!---LeetCode Topics End-->
