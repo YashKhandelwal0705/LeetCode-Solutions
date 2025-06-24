@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1256-rank-transform-of-an-array](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3194-find-words-containing-character](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
