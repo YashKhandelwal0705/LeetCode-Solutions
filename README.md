@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0078-subsets) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [1013-fibonacci-number](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [3568-find-the-key-of-the-numbers](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/3568-find-the-key-of-the-numbers) |
 ## Recursion
@@ -137,5 +139,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [1677-matrix-diagonal-sum](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
