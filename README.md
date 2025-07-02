@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0954-maximum-sum-circular-subarray](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1256-rank-transform-of-an-array](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1675-magnetic-force-between-two-balls](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1677-matrix-diagonal-sum](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [1256-rank-transform-of-an-array](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1675-magnetic-force-between-two-balls](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2887-sort-vowels-in-a-string](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 ## Dynamic Programming
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
+| [1675-magnetic-force-between-two-balls](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Enumeration
 |  |
