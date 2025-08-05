@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3194-find-words-containing-character](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
+| [3790-fruits-into-baskets-ii](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1675-magnetic-force-between-two-balls](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [3790-fruits-into-baskets-ii](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -196,4 +199,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
