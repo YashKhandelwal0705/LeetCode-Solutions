@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Binary Search
 |  |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Segment Tree
 |  |
 | ------- |
