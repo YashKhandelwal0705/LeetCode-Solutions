@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0409-longest-palindrome](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [1256-rank-transform-of-an-array](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -217,4 +219,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
