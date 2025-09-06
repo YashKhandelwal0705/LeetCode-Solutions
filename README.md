@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0954-maximum-sum-circular-subarray](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
+| [0966-binary-subarrays-with-sum](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1256-rank-transform-of-an-array](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0409-longest-palindrome](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
+| [0966-binary-subarrays-with-sum](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1256-rank-transform-of-an-array](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0966-binary-subarrays-with-sum](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 ## Stack
 |  |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0966-binary-subarrays-with-sum](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Greedy
 |  |
