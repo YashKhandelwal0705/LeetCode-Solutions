@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1677-matrix-diagonal-sum](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [1256-rank-transform-of-an-array](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2887-sort-vowels-in-a-string](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 ## Dynamic Programming
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1675-magnetic-force-between-two-balls](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Enumeration
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0966-binary-subarrays-with-sum](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Stack
 |  |
 | ------- |
@@ -206,10 +210,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0966-binary-subarrays-with-sum](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Linked List
 |  |
 | ------- |
