@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3790-fruits-into-baskets-ii](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Prefix Sum
@@ -271,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
