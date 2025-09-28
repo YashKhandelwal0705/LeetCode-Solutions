@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0954-maximum-sum-circular-subarray](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [0966-binary-subarrays-with-sum](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [1018-largest-perimeter-triangle](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1256-rank-transform-of-an-array](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [1018-largest-perimeter-triangle](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1256-rank-transform-of-an-array](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [3568-find-the-key-of-the-numbers](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/3568-find-the-key-of-the-numbers) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
+| [1018-largest-perimeter-triangle](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Linked List
 |  |
