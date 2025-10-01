@@ -306,4 +306,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-students-and-examinations](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1827-invalid-tweets) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
