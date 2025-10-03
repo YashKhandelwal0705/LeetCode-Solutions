@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
