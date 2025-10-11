@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1811-fix-names-in-a-table](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1827-invalid-tweets) |
 | [1877-find-followers-count](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1877-find-followers-count) |
+| [1942-primary-department-for-each-employee](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1942-primary-department-for-each-employee) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
