@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0409-longest-palindrome](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
+| [0451-sort-characters-by-frequency](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0966-binary-subarrays-with-sum](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1256-rank-transform-of-an-array](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0344-reverse-string](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
+| [0451-sort-characters-by-frequency](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0742-to-lower-case) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0451-sort-characters-by-frequency](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1018-largest-perimeter-triangle](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1256-rank-transform-of-an-array](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -328,4 +331,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1942-primary-department-for-each-employee](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1942-primary-department-for-each-employee) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
