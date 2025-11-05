@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0409-longest-palindrome](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
