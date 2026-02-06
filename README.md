@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1922-count-good-numbers](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1922-count-good-numbers) |
 | [3568-find-the-key-of-the-numbers](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/3568-find-the-key-of-the-numbers) |
 | [3830-find-closest-person](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/3830-find-closest-person) |
 ## Recursion
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/YashKhandelwal0705/LeetCode-Solutions/tree/master/1922-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
